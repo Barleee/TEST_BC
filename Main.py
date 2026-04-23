@@ -1,1 +1,1 @@
-print("Różowy Super Like Button")
+print("Light Blue Super Like Button")
